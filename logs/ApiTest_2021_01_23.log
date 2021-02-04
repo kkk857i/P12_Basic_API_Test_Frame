@@ -1,0 +1,3 @@
+2021-01-23 13:59:37,552 ApiTestlog INFO [case02]appid错误时测试
+2021-01-23 13:59:37,723 ApiTestlog INFO [case01]正常测试access_token值测试
+2021-01-23 14:03:43,433 ApiTestlog INFO [case03]创建用户标签接口
